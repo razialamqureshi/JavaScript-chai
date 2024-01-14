@@ -1,0 +1,18 @@
+const account_id=123;
+// account_id=321;
+/*var i=5;
+console.log(i);
+for(i=0;i<=10;i++)
+{
+    console.log(i);
+}
+console.log(i);*/
+
+let i=5;
+console.log(i);
+for(i=0;i<=10;i++)
+{
+    console.log(i);
+}
+console.log(i);
+
